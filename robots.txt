@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://berimpapo.github.io/berimpapo.berimpapo
+Sitemap: https://berimpapo.github.io/app/berimpapo.berimpapo
+Sitemap: https://berimpapo.github.io/assets/berimpapo.berimpapo
+Sitemap: https://berimpapo.github.io/css/berimpapo.berimpapo
+Sitemap: https://berimpapo.github.io/includes/berimpapo.berimpapo
+Sitemap: https://berimpapo.github.io/item/berimpapo.berimpapo
+Sitemap: https://berimpapo.github.io/src/berimpapo.berimpapo
